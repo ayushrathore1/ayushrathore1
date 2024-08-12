@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ayush Rathore
-- 👀 I’m interested in Learning new things and make awesome projects
+- 👀 I’m interested in Learning new things and make awesome projects and also have the some taste of music.
+  
 - 🌱 I’m currently learning JavaScript from @hiteshchoudhary
 - 💞️ I’m looking to collaborate obn JavaScript Projects
 - 😄 Pronouns: He/Hum
