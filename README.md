@@ -3,8 +3,8 @@
   
 - 🌱 I’m currently learning JavaScript from @hiteshchoudhary
 - 💞️ I’m looking to collaborate obn JavaScript Projects
-- 😄 Pronouns: He/Hum
-- ⚡ Fun fact: I am still looking for College.
+- 😄 Pronouns: He/Him
+- ⚡
 
 <!---
 ayushrathore1/ayushrathore1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
