@@ -1,178 +1,167 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=AYUSH%20RATHORE&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20at%20the%20intersection%20of%20Code%20%2B%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+# AYUSH RATHORE
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2600&pause=900&color=6366F1&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+B.Tech+CSE+Student;Building+with+LLMs+%2B+Agentic+Workflows;Powered+by+Claude+Code+%2B+Cursor;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+`AI Engineer` · `Systems Thinker` · `Builder`
 
 </div>
 
 <br/>
 
-<table align="center">
+```
+$ whoami --verbose
+
+ayush@dev ────────────────────────────────────
+  location    : Jaipur, IN
+  role        : B.Tech CSE Student
+  focus       : AI / LLMs / Agentic Systems
+  languages   : Python · JavaScript · C++ · C
+  infra       : Docker · Google Cloud · MongoDB
+  daily tools : Claude Code · Cursor · Antigravity · OpenCode
+  status      : [ shipping ]
+─────────────────────────────────────────────
+```
+
+<br/>
+
+### capabilities.yaml
+
+```yaml
+ai:
+  - large language models
+  - agentic workflows
+  - prompt engineering & evaluation
+
+languages:
+  - python
+  - javascript
+  - cpp
+  - c
+
+infrastructure:
+  - docker
+  - google_cloud
+  - mongodb
+
+agentic_tooling:
+  - claude_code
+  - cursor
+  - antigravity
+  - opencode
+
+north_star: ai-native product engineering
+status: active
+```
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,js,cpp,c,mongodb,docker,gcp&theme=dark" height="42"/>
+
+</div>
+
+<br/>
+
+---
+
+### event_log --graph
+
+<table>
 <tr>
-<td valign="top" width="55%">
-
-### ABOUT
+<td width="130"><img src="https://source.unsplash.com/260x180/?data,meetup" width="130" height="90" style="border-radius:6px"/></td>
+<td>
 
 ```
-class Developer:
-    def __init__(self):
-        self.name     = "Ayush Rathore"
-        self.role     = "AI Engineer · B.Tech CSE Student"
-        self.location = "Jaipur, India"
-        self.focus    = ["AI / LLMs", "Agentic Tooling"]
-        self.stack    = ["Python", "JS", "C++", "C"]
-
-    def currently(self):
-        return "Building AI-native products & tools"
+* 2026-08   Databricks User Group Meetup
 ```
-
 </td>
-<td valign="top" width="45%">
+</tr>
+<tr>
+<td><img src="https://source.unsplash.com/260x180/?hackathon,team" width="130" height="90" style="border-radius:6px"/></td>
+<td>
 
-### QUICK FACTS
+```
+* 2026-07   Shankara Hackathon
+```
+</td>
+</tr>
+<tr>
+<td><img src="https://source.unsplash.com/260x180/?conference,government" width="130" height="90" style="border-radius:6px"/></td>
+<td>
 
-┃ AI-first builder — LLMs, agents, prompting
-┃ AI-native workflow — Claude Code · Cursor · Antigravity
-┃ Supporting stack — Python · JS · C/C++
-┃ Cloud-native — Docker + Google Cloud
+```
+* 2026-06   Rajasthan AI Builders
+            National Conference on e-Governance
+```
+</td>
+</tr>
+<tr>
+<td><img src="https://source.unsplash.com/260x180/?artificialintelligence,computer" width="130" height="90" style="border-radius:6px"/></td>
+<td>
 
+```
+* 2026-05   Google AI Bootcamp — Jaipur
+```
+</td>
+</tr>
+<tr>
+<td><img src="https://source.unsplash.com/260x180/?hackathon,competition" width="130" height="90" style="border-radius:6px"/></td>
+<td>
+
+```
+* 2026-04   Google PromptWar — Jaipur
+```
+</td>
+</tr>
+<tr>
+<td><img src="https://source.unsplash.com/260x180/?startup,technology" width="130" height="90" style="border-radius:6px"/></td>
+<td>
+
+```
+* 2026-03   Google AI Day for Startups 2026 — Jaipur
+```
+</td>
+</tr>
+<tr>
+<td><img src="https://source.unsplash.com/260x180/?workshop,coding" width="130" height="90" style="border-radius:6px"/></td>
+<td>
+
+```
+* 2026-02   IDE Bootcamp by MoE — EDII Ahmedabad
+```
+</td>
+</tr>
+<tr>
+<td><img src="https://source.unsplash.com/260x180/?horizon,future" width="130" height="90" style="border-radius:6px"/></td>
+<td>
+
+```
+→ next        eager to attend the next one
+```
 </td>
 </tr>
 </table>
 
+---
+
 <br/>
+
+### GET /stats
 
 <div align="center">
 
-### TECH STACK
+<img src="https://github-readme-stats.vercel.app/api?username=ayushrathore1&show_icons=true&theme=dark&hide_border=true&hide_title=true&bg_color=00000000&icon_color=6366F1&title_color=6366F1&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushrathore1&theme=dark&hide_border=true&background=00000000&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="165"/>
 
-<br/>
-
-<img src="https://img.shields.io/badge/-AI%20%26%20AGENTIC%20TOOLING-0f172a?style=for-the-badge&labelColor=0f172a"/>
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Artificial_Intelligence-6366F1?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCode-14B8A6?style=for-the-badge&logo=codeforces&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/-LANGUAGES-0f172a?style=for-the-badge&labelColor=0f172a"/>
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=py,js,cpp,c&theme=dark" height="55"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/-DATA%20%26%20INFRA-0f172a?style=for-the-badge&labelColor=0f172a"/>
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=mongodb,docker,gcp&theme=dark" height="55"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushrathore1&theme=github-compact&hide_border=true&bg_color=00000000&color=6366F1&line=6366F1&point=c9d1d9" width="94%"/>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-### EVENTS & COMMUNITY
-
-</div>
-
-<table align="center" width="100%">
-
-<tr>
-<td width="50%" align="center">
-<img src="https://source.unsplash.com/500x280/?workshop,coding" width="100%" style="border-radius:10px"/>
-<br/>
-<strong>IDE Bootcamp by MoE</strong><br/>
-<sub>EDII Ahmedabad</sub>
-</td>
-<td width="50%" align="center">
-<img src="https://source.unsplash.com/500x280/?startup,technology" width="100%" style="border-radius:10px"/>
-<br/>
-<strong>Google AI Day for Startups 2026</strong><br/>
-<sub>Jaipur</sub>
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-<img src="https://source.unsplash.com/500x280/?hackathon,competition" width="100%" style="border-radius:10px"/>
-<br/>
-<strong>Google PromptWar</strong><br/>
-<sub>Jaipur</sub>
-</td>
-<td width="50%" align="center">
-<img src="https://source.unsplash.com/500x280/?artificialintelligence,computer" width="100%" style="border-radius:10px"/>
-<br/>
-<strong>Google AI Bootcamp</strong><br/>
-<sub>Jaipur</sub>
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-<img src="https://source.unsplash.com/500x280/?conference,government" width="100%" style="border-radius:10px"/>
-<br/>
-<strong>Rajasthan AI Builders</strong><br/>
-<sub>National Conference on e-Governance</sub>
-</td>
-<td width="50%" align="center">
-<img src="https://source.unsplash.com/500x280/?hackathon,team" width="100%" style="border-radius:10px"/>
-<br/>
-<strong>Shankara Hackathon</strong>
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-<img src="https://source.unsplash.com/500x280/?data,meetup" width="100%" style="border-radius:10px"/>
-<br/>
-<strong>Databricks User Group Meetup</strong>
-</td>
-<td width="50%" align="center">
-<img src="https://source.unsplash.com/500x280/?future,horizon" width="100%" style="border-radius:10px"/>
-<br/>
-<strong>Eager to Attend the Next One</strong><br/>
-<sub>Always looking for the next room to learn in</sub>
-</td>
-</tr>
-
-</table>
-
-<br/>
+---
 
 <div align="center">
 
-### GITHUB STATS
-
-<img src="https://github-readme-stats.vercel.app/api?username=ayushrathore1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6366F1&icon_color=6366F1&text_color=e2e8f0&count_private=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushrathore1&theme=tokyonight&hide_border=true&background=0f172a&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushrathore1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6366F1&text_color=e2e8f0" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushrathore1&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=6366F1&line=6366F1&point=e2e8f0" width="95%"/>
+`// last synced 2026` · always compiling, rarely finished
 
 </div>
-
-<br/>
-
-<div align="center">
-
-### TROPHIES
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayushrathore1&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=120&section=footer" width="100%"/>
