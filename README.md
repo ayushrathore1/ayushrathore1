@@ -18,7 +18,7 @@
 ## `$ whoami`
 
 ```text
-[(www.shopcampuskart.in)
+(www.shopcampuskart.in)
 ────────────────────────────────────────────────────
 
   role        : Software Engineer
