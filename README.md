@@ -18,7 +18,7 @@
 ## `$ whoami`
 
 ```text
-ayush@dev
+(www.shopcampuskart.in)
 ────────────────────────────────────────────────────
 
   role        : Software Engineer
